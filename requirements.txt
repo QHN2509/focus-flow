@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+psutil
+plyer
+joblib
+pywin32; sys_platform == 'win32'

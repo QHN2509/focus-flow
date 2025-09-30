@@ -1,0 +1,21 @@
+# Python virtualenv
+.venv/
+venv/
+
+# SQLite DB and exports
+productivity_agent.db
+dataset_exports/
+archives/
+
+# Model artifacts and logs
+models/
+classifier_model.joblib
+tools/logs/
+artifacts/
+
+# Editor/workspace files
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

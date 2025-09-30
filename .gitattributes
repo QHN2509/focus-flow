@@ -1,0 +1,5 @@
+# Ensure text files use LF in the repository
+* text=auto
+
+# Keep Jupyter notebooks out of merge noise (if any)
+*.ipynb binary
